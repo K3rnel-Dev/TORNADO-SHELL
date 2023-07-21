@@ -1,6 +1,7 @@
 #/bin/bash
 clear
 pip install rich
+apt install g++-mingw-w64-i686
 clear
 python3 trnsrc/checker_tools.py
 python3 TRNxShell.py
