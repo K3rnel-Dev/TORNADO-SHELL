@@ -1,0 +1,6 @@
+#/bin/bash
+clear
+pip install rich
+clear
+python3 trnsrc/checker_tools.py
+python3 TRNxShell.py
