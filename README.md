@@ -3,7 +3,7 @@
 ![Modife-Dev-Name](https://img.shields.io/badge/ModifyRepoDev-K3rnel-red)
 [![Language](https://img.shields.io/badge/Language-Python/C++-e4181c.svg?labelColor=000000)](https://github.com/K3rnel-dev/TORNADO-SHELL/)
 <div align="center">
-<img src="https://github.com/K3rnel-Dev/XCypher/blob/main/trnsrc/tornado.png" width='600px' height='300px' alt="Tornado Screen">
+<img src="https://github.com/K3rnel-Dev/TORNADO-SHELL/blob/main/trnsrc/tornado.png" width='600px' height='300px' alt="Tornado Screen">
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=320&width=500&lines=Simple+Shell;For+Windows;X64+X86" alt="Work Cipher">
 <hr>
@@ -11,7 +11,7 @@
 <strong>This is a simple shell for windows x64/x86, under the concealment of a legitimate process</strong>
 
 
----
+
 
 <strong><h1>How to use?</h1></strong>
 </div>
